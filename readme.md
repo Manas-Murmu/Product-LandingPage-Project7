@@ -6,7 +6,7 @@
 
 ![Badge](https://img.shields.io/badge/Manas--Ranjan--Murmu-Project--7-blue) ![Badge](https://img.shields.io/badge/LCO-Full%20Stack%20Javascript%20Bootcamp-orange) ![](https://img.shields.io/badge/HTML-CSS-green)
 
-#### Built Using HTML & CSS (Desktop view Only 💻)
+#### Built Using HTML & CSS (Desktop💻 & Mobile📱 view Only )
 
 #### Time Taken to finish the Project - 4 hours ⌛ (approx)
 
@@ -26,5 +26,11 @@
 ### Screenshot
 
 ![screeshot](./screenshot.png)
+
+---
+
+### Mobile View
+
+![screeshot](./mobile%20view.png)
 
 ---

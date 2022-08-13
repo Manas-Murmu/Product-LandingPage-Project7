@@ -182,3 +182,57 @@ p {
   margin-left: 180px;
   margin-top: 35px;
 }
+
+/* ---------------------------------------------------------------- */
+
+@media (max-width: 768px) {
+  .intro-section {
+    grid-template-columns: 1fr;
+  }
+  .left-section {
+    order: 2;
+  }
+  .nav-items {
+    display: none;
+  }
+  .icons {
+    width: 50%;
+  }
+}
+
+@media (max-width: 768px) {
+  img[alt="actions"] {
+    width: 50%;
+  }
+  img[alt="logo"] {
+    width: 100px;
+  }
+  .discount {
+    position: absolute;
+    left: 0px;
+    top: 14rem;
+  }
+  .headphone-div > img:last-child {
+    margin-top: 30px;
+    width: 400px;
+  }
+  .discount-content {
+    left: 35px;
+  }
+  .dot {
+    left: 160px;
+  }
+  .right-section > button:last-child {
+    margin-left: 140px;
+    margin-top: 35px;
+  }
+  br {
+    display: none;
+  }
+  .left-section {
+    margin-top: 30px;
+  }
+  .action-btns {
+    padding-bottom: 20px;
+  }
+}
