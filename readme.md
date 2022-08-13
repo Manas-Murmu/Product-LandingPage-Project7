@@ -28,9 +28,3 @@
 ![screeshot](./screenshot.png)
 
 ---
-
-### Mobile View
-
-![screeshot](./mobile%20view.png)
-
----
